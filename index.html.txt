@@ -17,3 +17,5 @@
       <img src="image1.jpg" alt="A great image of Oscar the Grouch!">
       <p>Oscar's book: "<em>How to make &#x24; into garbage!</em>"</p>
     </div>
+</body>
+</html>
